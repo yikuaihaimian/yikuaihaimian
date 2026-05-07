@@ -1,4 +1,4 @@
-# 👋 你好，我是唐语哲 (Yuze Tang)
+# 👋 你好，我是唐语哲 (Yuzhe Tang)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=yikuaihaimian&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
@@ -301,17 +301,11 @@ P_penalty = λ · exp(k · |J(q)|)
 
 ## 🏆 竞赛与证书
 
-- 🎖️ **英语六级**：546分
+- 🎖️ **英语六级**
 - 🎖️ **计算机专业基础扎实**：数据结构、操作系统、计算机网络、数据库系统
+- 🎖️ **2021 美国大学生数学建模竞赛 M 奖**
+- 🎖️ **2022 全国大学生数学建模竞赛 省级二等奖**
 
----
-
-## 📈 GitHub统计
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yikuaihaimian&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yikuaihaimian&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 
 ---
